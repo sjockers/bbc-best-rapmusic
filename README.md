@@ -1,0 +1,3 @@
+BBC Music polled over 100 critics in 15 countries to find the best hip-hop song ever. http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time
+
+This repo contains the poll data from further analysis. The data was extracted from an original article on bbc.com: [The greatest hip-hop songs of all time - who voted](http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time-who-voted)
