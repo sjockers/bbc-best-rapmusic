@@ -1,4 +1,4 @@
-Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_country2
+rank, title, artist, year, critic_name, critic_rols, critic_country, critic_country2
 1, Terminator X To The Edge of Panic, Public Enemy, 1998, Joseph Abajian, Fat Beats, US
 2, 4th Chamber, Gza ft. Ghostface Killah & Killah Priest & RZA, 1995, Joseph Abajian, Fat Beats, US
 3, Peter Piper, Run DMC, 1986, Joseph Abajian, Fat Beats, US
@@ -8,7 +8,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 2, Self Destruction, Stop The Violence Movement, 1989, Biba Adams, Critic, US
 3, Push It, Salt-N-Pepa, 1986, Biba Adams, Critic, US
 4, Ambitionz Az A Ridah, 2Pac, 1996, Biba Adams, Critic, US
-5, Big Pimpin', JAY-Z feat. UGK, 1999, Biba Adams, Critic, US
+5, Big Pimpin', JAY-Z ft. UGK, 1999, Biba Adams, Critic, US
 1, Rapper’s Delight, Sugarhill Gang, 1979, Dart Adams, Critic, US
 2, Sucker MCs, Run DMC, 1984, Dart Adams, Critic, US
 3, Lyrics Of Fury, Eric B & Rakim, 1988, Dart Adams, Critic, US
@@ -18,7 +18,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 2, Nuthin’ But A ‘G’ Thang, Dr Dre ft. Snoop Doggy Dogg, 1992, Insanul Ahmed, Genius, US
 3, The Message, Grandmaster Flash & The Furious Five, 1982, Insanul Ahmed, Genius, US
 4, In Da Club, 50 Cent, 2003, Insanul Ahmed, Genius, US
-5, m.A.A.d. City, Kendrick Lamar, 2012, Insanul Ahmed, Genius, US
+5, m.A.A.d. city, Kendrick Lamar, 2012, Insanul Ahmed, Genius, US
 1, In Da Club, 50 Cent, 2003, Joey Akan, Critic, Nigeria   
 2, Lose Yourself, Eminem, 2002, Joey Akan, Critic, Nigeria   
 3, Dear Mama, 2Pac, 1995, Joey Akan, Critic, Nigeria   
@@ -32,7 +32,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 1, Fight The Power, Public Enemy, 1989, Ivie Ani, Critic, US
 2, Juicy, The Notorious B.I.G. , 1994, Ivie Ani, Critic, US
 3, Ready Or Not, The Fugees, 1996, Ivie Ani, Critic, US
-4, DMX, Party Up, 1999, Ivie Ani, Critic, US
+4, Party Up (Up In Here), DMX, 1999, Ivie Ani, Critic, US
 5, Monster, Kanye West, 2010, Ivie Ani, Critic, US
 1, Nuthin’ But A ‘G’ Thang, Dr Dre ft. Snoop Doggy Dogg, 1992, Andrew Barber, Fake Shore Drive, US
 2, Hard Knock Life, JAY-Z, 1998, Andrew Barber, Fake Shore Drive, US
@@ -46,8 +46,8 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 5, HYFR, Drake ft. Lil Wayne, 2011, Fionn Birr, Critic, Germany
 1, We Got It For Cheap (Intro), Clipse, 2006, Davide Bortot, Critic, Germany
 2, Fuck You, The LOX, 2000, Davide Bortot, Critic, Germany
-3, Can't Tell Me Nothing, Kanye West, 2007, Davide Bortot, Critic, Germany
-4, Ojuelegba (Remix), Wizkid ft Drake & Skepta, 2015, Davide Bortot, Critic, Germany
+3, Can’t Tell Me Nothing, Kanye West, 2007, Davide Bortot, Critic, Germany
+4, Ojuelegba (Remix), Wizkid ft. Drake & Skepta, 2015, Davide Bortot, Critic, Germany
 5, March Madness, Future, 2015, Davide Bortot, Critic, Germany
 1, Shook Ones (Part II), Mobb Deep, 1995, Julian Brimmers, Critic, Germany
 2, Rosa Parks, OutKast, 1998, Julian Brimmers, Critic, Germany
@@ -73,7 +73,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 2, C.R.E.A.M., Wu-Tang Clan, 1993, Paul Cantor, Critic, US
 3, Nuthin’ But A ‘G’ Thang, Dr Dre ft. Snoop Doggy Dogg, 1992, Paul Cantor, Critic, US
 4, Love Yourz, J Cole, 2014, Paul Cantor, Critic, US
-5, Paid In Full (Seven Minutes Of Madness – The Coldcut Remix), Eric B And Rakim, 1987, Paul Cantor, Critic, US
+5, Paid In Full (Seven Minutes Of Madness – The Coldcut Remix), Eric B & Rakim, 1987, Paul Cantor, Critic, US
 1, As The Rhyme Goes On, Eric B & Rakim, 1987, Rodney Carmichael, NPR, US
 2, Liberation, OutKast, 1998, Rodney Carmichael, NPR, US
 3, God Lives Through, A Tribe Called Quest, 1993, Rodney Carmichael, NPR, US
@@ -82,7 +82,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 1, Nutmeg, Ghostface Killah, 2000, Nick Catchdubs, Producer and DJ, US
 2, B.O.B., OutKast, 2000, Nick Catchdubs, Producer and DJ, US
 3, Grindin’, Clipse, 2002, Nick Catchdubs, Producer and DJ, US
-4, Work It, Missy Elliot, 2002, Nick Catchdubs, Producer and DJ, US
+4, Work It, Missy Elliott, 2002, Nick Catchdubs, Producer and DJ, US
 5, Rebel Without A Pause, Public Enemy, 1988, Nick Catchdubs, Producer and DJ, US
 1, Mural, Lupe Fiasco, 2015, D.L. Chandler, HipHopWired, US
 2, How We Roll, Canibus, 1998, D.L. Chandler, HipHopWired, US
@@ -90,7 +90,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 4, Hovi Baby, JAY-Z, 2002, D.L. Chandler, HipHopWired, US
 5, Mortal Man, Kendrick Lamar, 2015, D.L. Chandler, HipHopWired, US
 1, Double Trouble At The Amphitheatre, Double Trouble, 1983, Jeff Chang, Author, US
-2, Black Steel In The Hour Of Chaos, Public Enemy, 1998, Jeff Chang, Author, US
+2, Black Steel In The Hour Of Chaos, Public Enemy, 1988, Jeff Chang, Author, US
 3, I Am I Be, De La Soul, 1993, Jeff Chang, Author, US
 4, Get By, Talib Kweli, 2002, Jeff Chang, Author, US
 5, Alright, Kendrick Lamar, 2015, Jeff Chang, Author, US
@@ -105,7 +105,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 4, Straight Outta Compton, NWA, 1988, Andy Cohn, The FADER, US
 5, Changes, 2Pac ft. Talent, 1998, Andy Cohn, The FADER, US
 1, Triumph, Wu-Tang Clan, 1997, Onyx Collective, Artist, US
-2, The What, The Notorious B.I.G., 1994, Onyx Collective, Artist, US
+2, The What, The Notorious B.I.G. ft. Method Man, 1994, Onyx Collective, Artist, US
 3, Put It On, Big L, 1995, Onyx Collective, Artist, US
 4, Can I Live, JAY-Z, 1996, Onyx Collective, Artist, US
 5, N.Y. State Of Mind, Nas, 1994, Onyx Collective, Artist, US
@@ -131,9 +131,9 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 5, Realer, Megan Thee Stallion, 2019, Taylor Crumpton, Critic, US
 1, Protect Ya Neck, Wu-Tang Clan, 1992, Cam Curran, Styles Upon Styles Records, US
 2, The Bridge Is Over, BDP, 1987, Cam Curran, Styles Upon Styles Records, US
-3, Fuck Tha Police, NWA, 1998, Cam Curran, Styles Upon Styles Records, US
+3, Fuck Tha Police, NWA, 1988, Cam Curran, Styles Upon Styles Records, US
 4, A Milli, Lil Wayne, 2008, Cam Curran, Styles Upon Styles Records, US
-5, Fuck Wit Dre Day (And Everybody’s Celebratin’), Dr Dre ft Snoop Doggy Dogg, 1993, Cam Curran, Styles Upon Styles Records, US
+5, Fuck Wit Dre Day (And Everybody’s Celebratin’), Dr Dre ft. Snoop Doggy Dogg, 1993, Cam Curran, Styles Upon Styles Records, US
 1, California Love, 2Pac ft. Dr Dre, 1996, Ross Devlin, Critic, US
 2, Dirt Off Your Shoulder, JAY-Z, 2003, Ross Devlin, Critic, US
 3, Alright, Kendrick Lamar, 2015, Ross Devlin, Critic, US
@@ -141,9 +141,9 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 5, Jesus Walks, Kanye West, 2004, Ross Devlin, Critic, US
 1, Guess Who's Back, Rakim, 1997, Stephen Dowling, BBC Music, UK
 2, Passin’ Me By, The Pharcyde, 1992, Stephen Dowling, BBC Music, UK
-3, Still D.R.E., Dr Dre feat. Snoop Dogg, 1999, Stephen Dowling, BBC Music, UK
-4, Puppet Master, Dr Dre feat. B-Real, 1997, Stephen Dowling, BBC Music, UK
-5, Concrete Schoolyard,,Jurassi 5, 1998, Stephen Dowling, BBC Music, UK
+3, Still D.R.E., Dr Dre ft. Snoop Dogg, 1999, Stephen Dowling, BBC Music, UK
+4, Puppet Master, Dr Dre ft. B-Real, 1997, Stephen Dowling, BBC Music, UK
+5, Concrete Schoolyard, Jurassic 5, 1998, Stephen Dowling, BBC Music, UK
 1, Passin’ Me By, The Pharcyde, 1992, Damola Durosomo, OkayAfrica, US
 2, Electric Relaxation, A Tribe Called Quest, 1993, Damola Durosomo, OkayAfrica, US
 3, Real, Lupe Fiasco, 2006, Damola Durosomo, OkayAfrica, US
@@ -155,7 +155,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 4, Jesus Walks, Kanye West, 2004, Hiroshi Egaitsu, Critic, Japan
 5, Shinjitsu No Dangan, King Giddra, 1995, Hiroshi Egaitsu, Critic, Japan
 1, Nature of the Threat, Ras Kass, 1996, Brother Ernie, Photographer, US
-2, New World Water, Yasiin Bey (Mos Def) (, 99, Brother Ernie, Photographer, US
+2, New World Water, Yasiin Bey (Mos Def), 1999, Brother Ernie, Photographer, US
 3, Dr Aden, BOB, 2011, Brother Ernie, Photographer, US
 4, U.N.I.T.Y., Queen Latifah, 1993, Brother Ernie, Photographer, US
 5, O.P.P., Naughty By Nature, 1991, Brother Ernie, Photographer, US
@@ -191,7 +191,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 5, Warning, The Notorious B.I.G., 1994, Sasha Frere-Jones, Critic, US
 1, N.Y. State Of Mind, Nas, 1994, Nick Fulton, Critic, New Zealand
 2, Doo Wop (That Thing), Lauryn Hill, 1998, Nick Fulton, Critic, New Zealand
-3, Jesus Walks, Kanye West,, 2004, Nick Fulton, Critic, New Zealand
+3, Jesus Walks, Kanye West, 2004, Nick Fulton, Critic, New Zealand
 4, C.R.E.A.M., Wu-Tang Clan, 1993, Nick Fulton, Critic, New Zealand
 5, Grindin’, Clipse, 2002, Nick Fulton, Critic, New Zealand
 1, Runaway, Kanye West ft. Pusha T, 2010, Viola Funk, Critic, Germany
@@ -205,7 +205,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 4, Ms Jackson, OutKast, 2000, Polla Garmiany, Critic, Germany, Kurdistan
 5, It Was A Good Day, Ice Cube, 1992, Polla Garmiany, Critic, Germany, Kurdistan
 1, C.R.E.A.M., Wu-Tang Clan, 1993, Dan Green, Clockwork Music, US
-2, Life's A Bitch, Nas ft A.Z., 1994, Dan Green, Clockwork Music, US
+2, Life's A Bitch, Nas ft. A.Z., 1994, Dan Green, Clockwork Music, US
 3, Mass Appeal, Gang Starr, 1994, Dan Green, Clockwork Music, US
 4, Nuthin’ But A ‘G’ Thang, Dr Dre ft. Snoop Doggy Dogg, 1992, Dan Green, Clockwork Music, US
 5, Juicy, The Notorious B.I.G., 1994, Dan Green, Clockwork Music, US
@@ -216,12 +216,12 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 5, The Message, Grandmaster Flash & The Furious Five, 1982, Zack O'Malley Greenburg, Forbes, US
 1, Fight The Power, Public Enemy, 1989, Rob Harvilla, The Ringer, US
 2, The Message, Grandmaster Flash & The Furious Five, 1982, Rob Harvilla, The Ringer, US
-3, Work It, Missy Elliot, 2002, Rob Harvilla, The Ringer, US
+3, Work It, Missy Elliott, 2002, Rob Harvilla, The Ringer, US
 4, Wu-Tang Clan Ain't Nuthing Ta Fuck Wit, Wu-Tang Clan, 1993, Rob Harvilla, The Ringer, US
 5, Throw Some D's, Rich Boy, 2007, Rob Harvilla, The Ringer, US
 1, Umoya, Skwatta Kamp, 2003, Helen Herimbi, Critic, South Africa
 2, Soweto, ProKid, 2005, Helen Herimbi, Critic, South Africa
-3, U.N.I.T.Y., Queen Latifah (19, ), Helen Herimbi, Critic, South Africa
+3, U.N.I.T.Y., Queen Latifah, 1993, Helen Herimbi, Critic, South Africa
 4, Sim Dope, AKA, 2014, Helen Herimbi, Critic, South Africa
 5, Regrets, JAY-Z, 1996, Helen Herimbi, Critic, South Africa
 1, B.O.B., OutKast, 2000, Hrishikesh Hirway, Song Exploder, US
@@ -299,7 +299,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 3, Hard Knock Life, JAY-Z, 1998, Sowmya Krishnamurthy, Critic, US
 4, C.R.E.A.M., Wu-Tang Clan, 1993, Sowmya Krishnamurthy, Critic, US
 5, Shook Ones (Part II), Mobb Deep, 1995, Sowmya Krishnamurthy, Critic, US
-1, All Of The Lights, Kanye West ft. Rihanna & Kid Cudi, 2011, Kish Lal, Critic, US
+1, All Of The Lights, Kanye West ft. Rihanna & Kid Cudi, 2010, Kish Lal, Critic, US
 2, Day 'N' Nite, Kid Cudi, 2008, Kish Lal, Critic, US
 3, Country Grammar, Nelly, 2000, Kish Lal, Critic, US
 4, Bodak Yellow, Cardi B, 2017, Kish Lal, Critic, US
@@ -315,7 +315,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 4, I Like That, Janelle Monae, 2018, Yi-Ling Liu, Critic, China
 5, Lost In The World, Kanye West ft. Bon Iver, 2010, Yi-Ling Liu, Critic, China
 1, I Am I Be, De La Soul, 1993, David Ma, Critic, US
-2, Above The Clouds, Gang Starr ft. Inspectah Deck, , David Ma, Critic, US1998
+2, Above The Clouds, Gang Starr ft. Inspectah Deck, 1998, David Ma, Critic, US
 3, The What, The Notorious B.I.G. ft. Method Man, 1994, David Ma, Critic, US
 4, Excursions, A Tribe Called Quest, 1991, David Ma, Critic, US
 5, Looking At The Front Door, Main Source, 1990, David Ma, Critic, US
@@ -351,7 +351,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 5, Witness (1 Hope), Roots Manuva, 2001, Tseliso Monaheng, Critic, South Africa
 1, Juicy, The Notorious B.I.G., 1994, Jacob Moore, Pigeons and Planes, US
 2, Electric Relaxation, A Tribe Called Quest, 1993, Jacob Moore, Pigeons and Planes, US
-3, 93 ’Til Infinity, Souls Of Mischief, 1993, Jacob Moore, Pigeons and Planes, US
+3, 93 ’Til Infinity, Souls of Mischief, 1993, Jacob Moore, Pigeons and Planes, US
 4, Rosa Parks, OutKast, 1998, Jacob Moore, Pigeons and Planes, US
 5, All Caps, Madvillain, 2004, Jacob Moore, Pigeons and Planes, US
 1, C.R.E.A.M., Wu-Tang Clan, 1993, Andrei Nikitin, Editor, Russian Federation
@@ -367,7 +367,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 1, Juicy, The Notorious B.I.G., 1994, Simone Paget, Toronto Sun, Canada
 2, Flava In Ya Ear (Remix), Craig Mack, 1994, Simone Paget, Toronto Sun, Canada
 3, Act Too (Love of My Life), The Roots, 1999, Simone Paget, Toronto Sun, Canada
-4, Life's A Bitch, Nas ft A.Z., 1994, Simone Paget, Toronto Sun, Canada
+4, Life's A Bitch, Nas ft. A.Z., 1994, Simone Paget, Toronto Sun, Canada
 5, Lost Ones, Lauryn Hill, 1998, Simone Paget, Toronto Sun, Canada
 1, Follow The Leader, Eric B & Rakim, 1988, Nate Patrin, Critic, US
 2, The World Is Yours, Nas, 1994, Nate Patrin, Critic, US
@@ -388,7 +388,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 2, Warm It Up Kane, Big Daddy Kane, 1989, Slick Rick, Artist, US
 3, Know The Ledge, Eric B & Rakim, 1992, Slick Rick, Artist, US
 4, Triumph, Wu-Tang Clan, 1997, Slick Rick, Artist, US
-5, Pass That Dutch, Missy Elliot, 2003, Slick Rick, Artist, US
+5, Pass That Dutch, Missy Elliott, 2003, Slick Rick, Artist, US
 1, Mind Playing Tricks On Me, Geto Boys, 1991, Grant Rindner, Critic, US
 2, Lucifer, JAY-Z, 2003, Grant Rindner, Critic, US
 3, PRIDE, Kendrick Lamar, 2017, Grant Rindner, Critic, US
@@ -400,7 +400,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 4, Shook Ones (Part II), Mobb Deep, 1995, Al Rocco, Artist, China
 5, Juicy, The Notorious B.I.G., 1994, Al Rocco, Artist, China
 1, It Was A Good Day, Ice Cube, 1992, Dan Runcie, Trapital, US
-2, All Of The Lights, Kanye West ft. Rhianna & Kid Cudi, 2010, Dan Runcie, Trapital, US
+2, All Of The Lights, Kanye West ft. Rihanna & Kid Cudi, 2010, Dan Runcie, Trapital, US
 3, Doo Wop (That Thing), Lauryn Hill, 1998, Dan Runcie, Trapital, US
 4, International Players Anthem, UGK ft. OutKast, 2007, Dan Runcie, Trapital, US
 5, The Message, Grandmaster Flash & The Furious Five, 1982, Dan Runcie, Trapital, US
@@ -428,11 +428,11 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 2, Exhibit C, Jay Electronica, 2009, Zachary Schwartz, Critic, US
 3, Runaway, Kanye West ft. Pusha T, 2010, Zachary Schwartz, Critic, US
 4, A Milli, Lil Wayne, 2008, Zachary Schwartz, Critic, US
-5, Mona Lisa, Slick Rick, 1989, Zachary Schwartz, Critic, US
+5, Mona Lisa, Slick Rick, 1988, Zachary Schwartz, Critic, US
 1, They Want EFX, Das EFX, 1992, Joseph Sciorra, Professor, US
 2, Black Cop, KRS-One, 1993, Joseph Sciorra, Professor, US
 3, Atrevido, Orishas, 2000, Joseph Sciorra, Professor, US
-4, Fight Da Faida, Frankie HI-NR,GM, Joseph Sciorra, Professor, US
+4, Fight Da Faida, Frankie HI-NRG MC, 1993, Joseph Sciorra, Professor, US
 5, L'Americano, Akhenaton, 1995, Joseph Sciorra, Professor, US
 1, Kick Push, Lupe Fiasco, 2006, Camille Storm, Critic, Kenya
 2, Shook Ones (Part II), Mobb Deep, 1995, Camille Storm, Critic, Kenya
@@ -465,9 +465,9 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 4, One Day, UGK, 1996, Ralf Theil, Critic, Germany
 5, Root Down, Beastie Boys, 1994, Ralf Theil, Critic, Germany
 1, Aiiight Chill, Gang Starr, 1994, Vikki Tobak, Author, US
-2, Life's A Bitch, Nas ft A.Z., 1994, Vikki Tobak, Author, US
+2, Life's A Bitch, Nas ft. A.Z., 1994, Vikki Tobak, Author, US
 3, Rebel Without A Pause, Public Enemy, 1988, Vikki Tobak, Author, US
-4, Bastard, Tyler, The Creator, 2009, Vikki Tobak, Author, US
+4, Bastard, Tyler The Creator, 2009, Vikki Tobak, Author, US
 5, Look At Me!, XXXTENTACION, 2015, Vikki Tobak, Author, US
 1, Rebel Without A Pause, Public Enemy, 1988, Gabriel Tolliver, Critic, US
 2, Passin’ Me By, The Pharcyde, 1992, Gabriel Tolliver, Critic, US
@@ -495,7 +495,7 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 4, Kyoto, Yung Lean, 2013, Johann Voigt, Critic, Germany
 5, Love Sosa, Chief Keef, 2012, Johann Voigt, Critic, Germany
 1, I Really Mean It, The Diplomats, 2003, Jan Wehn, Critic, Germany
-2, All Of The Lights, Kanye West ft. Rhianna & Kid Cudi, 2010, Jan Wehn, Critic, Germany
+2, All Of The Lights, Kanye West ft. Rihanna & Kid Cudi, 2010, Jan Wehn, Critic, Germany
 3, Worst Behavior, Drake, 2013, Jan Wehn, Critic, Germany
 4, Tha Crossroads, Bone Thugs-N-Harmony, 1996, Jan Wehn, Critic, Germany
 5, Still Fly, Big Tymers, 2002, Jan Wehn, Critic, Germany
@@ -518,8 +518,8 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 2, Cherchez La Ghost, Ghostface Killah ft. Madam Majestic & U-God, 2000, Andrew Winistorfer, Vinyl Me Please, US
 3, Runaway, Kanye West ft. Pusha T, 2010, Andrew Winistorfer, Vinyl Me Please, US
 4, Ha, Juvenile, 2008, Andrew Winistorfer, Vinyl Me Please, US
-5, Turn On The Lights, Future (20, ), Andrew Winistorfer, Vinyl Me Please, US
-1, Things Done Changed, The Notorious BIG, 1994, Fabian Wolff, Critic, Germany
+5, Turn On The Lights, Future, 2012, Andrew Winistorfer, Vinyl Me Please, US
+1, Things Done Changed, The Notorious B.I.G., 1994, Fabian Wolff, Critic, Germany
 2, Ghetto Manifesto, The Coup, 2001, Fabian Wolff, Critic, Germany
 3, Vicious Rap, Tanya "Sweet Tee" Winley, 1980, Fabian Wolff, Critic, Germany
 4, I Used To Love Him, Lauryn Hill ft. Mary J Blige, 1998, Fabian Wolff, Critic, Germany
@@ -533,4 +533,4 @@ Rank, title, artist, year, critic_name, critic_rols, critic_country, critic_coun
 2, Shook Ones (Part II), Mobb Deep, 1995, Brian "Z" Zisook, DJ Booth, US
 3, Juicy, The Notorious B.I.G., 1994, Brian "Z" Zisook, DJ Booth, US
 4, Dear Mama, 2Pac, 1995, Brian "Z" Zisook, DJ Booth, US
-5, One Mic, Nas, 200, Brian "Z" Zisook, DJ Booth, US)
+5, One Mic, Nas, 2001, Brian "Z" Zisook, DJ Booth, US
