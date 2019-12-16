@@ -1,10 +1,11 @@
-install.packages("tidyverse")
-library(tidyverse)
+# Prerequisites: Needs "Needs" and Tidyverse installed
 
-polls <- read.csv('data/bbc_hiphop_25.csv')
+needs(tidyverse)
+
+polls <- read_csv('data/polls.csv')
 
 ranking <- polls %>% 
-  group_by(title, artist, year, artist_gender) %>% 
+  group_by(title, artist, year, gender) %>% 
   summarise(
     points = sum(points = (6 - rank) * 2), 
     n = n(), 
@@ -22,9 +23,11 @@ ranking <- polls %>%
     desc(n3), 
     desc(n4), 
     desc(n5)
-  )
-
-View(ranking)
+  ) %>%
+  rowid_to_column("ID")
+  
+ranking %>%
+  write_csv('data/ranking.csv', na = '')
 
 ggplot(data = ranking) +
-  geom_point(mapping = aes(x = year, y = points, color = artist_gender), position = "jitter")
+  geom_point(mapping = aes(x = year, y = points, color = gender), position = "jitter")

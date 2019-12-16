@@ -1,4 +1,4 @@
-rank, title, artist, artist_gender, year, critic_name, critic_rols, critic_country, critic_country2
+rank, title, artist, gender, year, critic_name, critic_rols, critic_country, critic_country2
 1, Terminator X To The Edge of Panic, Public Enemy, male, 1998, Joseph Abajian, Fat Beats, US, 
 2, 4th Chamber, Gza ft. Ghostface Killah & Killah Priest & RZA, male, 1995, Joseph Abajian, Fat Beats, US, 
 3, Peter Piper, Run DMC, male, 1986, Joseph Abajian, Fat Beats, US, 
