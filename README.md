@@ -12,7 +12,7 @@ This is a educational project and not affiliated with BBC Music.
 
 ### Background
 
-BBC Music polled over 100 critics in 15 countries to find [the best hip-hop song ever](http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time). This repo contains poll data, originally published by BBC Music, as well as code for transforming the data, adding cover artwork, and publishing charts via Datawrapper. The poll data was extracted from this article on bbc.com: [The greatest hip-hop songs of all time - who voted](http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time-who-voted)
+BBC Music polled over 100<sup id="a1">[1](#f1)</sup> critics in 15 countries to find [the best hip-hop song ever](http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time). This repo contains poll data, originally published by BBC Music, as well as code for transforming the data, adding cover artwork, and publishing charts via Datawrapper. The poll data was extracted from this article on bbc.com: [The greatest hip-hop songs of all time - who voted](http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time-who-voted)
 
 ### Data
 
@@ -39,3 +39,9 @@ node load_spotify_data.js --token='YOUR-OAUTH-TOKEN'
 ```
 
 For using the Spotify API, you need to generate an oAuth token on developer.spotify.com. Docs and a simple way to generate a token can be found here: https://developer.spotify.com/console/get-search-item.
+
+---
+
+#### Footnotes
+
+<b id="f1">1</b> The list published by BBC Music has 107 entries. However, other articles about the best of list give the number of critics polled as [106](http://www.bbc.com/culture/story/20191016-the-greatest-hip-hop-songs-from-around-the-world) and [108](http://www.bbc.com/culture/story/20191007-the-greatest-hip-hop-songs-of-all-time-who-voted). [↩](#a1)
