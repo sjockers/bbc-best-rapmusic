@@ -5,7 +5,7 @@
   "main": "index.js",
   "dependencies": {
     "csv": "^5.3.1",
-    "node-fetch": "^2.6.0",
+    "node-fetch": "^2.6.1",
     "p-throttle": "^3.1.0",
     "yargs": "^15.0.2"
   },
